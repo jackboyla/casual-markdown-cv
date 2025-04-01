@@ -40,9 +40,9 @@
 
 ## Projects / Publications
 
-- [KGValidator (ESWC 2024)](https://arxiv.org/abs/2404.15923) - Automatic validation of Knowledge Graph Construction. Study of browser use by LLMs before the time of widespread tool use.
-- [STAGE - Simplified Text-Attributed Graph Embeddings using LLMs](https://arxiv.org/abs/2407.12860) - Improving node classification performance on several benchmarks.
-- [GLiREL - Generalist Model for Zero-Shot Relation Extraction](https://arxiv.org/abs/2501.03172) - State of the art zero-shot relation extraction. BERT-based model trained on LLM-geenrated synthetic data.
+- [KGValidator](https://arxiv.org/abs/2404.15923) (ESWC 2024) - Automatic validation of Knowledge Graph Construction. Study of browser use by LLMs before the time of widespread tool use.
+- [STAGE - Simplified Text-Attributed Graph Embeddings using LLMs](https://arxiv.org/abs/2407.12860) (KaLLM, ACL 2024) - Improving node classification performance on several benchmarks.
+- [GLiREL - Generalist Model for Zero-Shot Relation Extraction](https://arxiv.org/abs/2501.03172) (NAACL 2025) - State of the art zero-shot relation extraction. BERT-based model trained on LLM-geenrated synthetic data.
 
 ## Education / Qualifications
 
