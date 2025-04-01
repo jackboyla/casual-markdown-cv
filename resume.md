@@ -1,48 +1,51 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="pfp.png" />
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+  Email: boylan.jack@gmail.com <br> Mobile: +353 851731819 <br> Nationality: Irish <br> GitHub: https://github.com/jackboyla <br> LinkedIn: https://linkedin.com/in/jack-boylan-6246b7185
 </span>
 
-# Casualwriter  
-
-## Executive Summary
-
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+# Jack Boylan
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Quantexa (Senior NLP Data Scientist, July 2023 – Present)
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+- Developing solutions for Named Entity Recognition, Co-reference resolution, relation extraction, document classification
+- Structured information extraction using LLMs at scale and speed
+- Building synthetic data generation pipelines
+- Frontend tools for easy manual data annotation
+- Leading research in the NLP team, with cross-team publications in Machine Learning conferences (NAACL, ACL, ESWC)
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+#### VARTEQ Inc. (Deep Learning Engineer, March 2023 – July 2023)
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+- Developed deep recommendation models.
+- Created deployment pipelines for large-scale data using PySpark.
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+#### Fretello (Machine Learning Engineer, February 2022 – March 2023)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+- Built SoTA polyphonic music transcription models for real-time music playing feedback on edge devices.
+- Managed large-scale data processing (>1TB data) and model development.
+- Designed and built self-supervised Transformer and Conformer models in TensorFlow to leverage unlabelled data sources.
+- Reimplemented feature extraction layers in C++ to optimize inference latency.
 
-## Projects: 
+#### Iconic Translation Machines / Language Weaver (Data Scientist Intern, 2020)
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+- Built Neural Machine Translation models across multiple languages.
+- Automated translation quality assessment, reducing time spent on manual inspection by 61%.
+- Integrated visualization tools into ML workflows to quickly break down model training runs.
 
-## Education & Qualifications
+#### Irish Life (Data Science Intern, June 2019 – August 2019)
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+- Assisted with data-driven analytics and insights.
 
-## Misc. Information
+## Projects / Publications
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+- [KGValidator (ESWC 2024)](https://arxiv.org/abs/2404.15923) - Automatic validation of Knowledge Graph Construction. Study of browser use by LLMs before the time of widespread tool use.
+- [STAGE - Simplified Text-Attributed Graph Embeddings using LLMs](https://arxiv.org/abs/2407.12860) - Improving node classification performance on several benchmarks.
+- [GLiREL - Generalist Model for Zero-Shot Relation Extraction](https://arxiv.org/abs/2501.03172) - State of the art zero-shot relation extraction. BERT-based model trained on LLM-geenrated synthetic data.
+
+## Education / Qualifications
+
+- Master's in Computer Science, Machine Learning, Georgia Institute of Technology (2022)
+- Bachelor's in Data Science, Dublin City University (2017 - 2021)
+
